@@ -9,3 +9,7 @@ I'm a frontEnd developer from china!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longshihui&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longshihui&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+The subway station is harder than you.
+
+![Subway Wall](./wall.jpg)
