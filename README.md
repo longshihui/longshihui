@@ -12,4 +12,4 @@ I'm a frontEnd developer from china!
 
 The subway station is harder than you.
 
-![Subway Wall](./wall.jpg)
+![Subway Wall](./subway-wall.png)
