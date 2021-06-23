@@ -4,7 +4,7 @@ I'm a FrontEnd developer from china!
 
 - 🔭 I’m currently working on my project [Dragon](https://github.com/longshihui/dragon)!
 - 🌱 I’m currently learning **Typescript**, **Electron**, **Webpack5** and **Nodejs**!
-- 💬 Ask me about anything [here](email:391424924@qq.com)!
+- 💬 Ask me about anything [here](mailto:391424924@qq.com)!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longshihui&show_icons=true&theme=radical)
 
