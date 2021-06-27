@@ -3,7 +3,7 @@
 I'm a FrontEnd developer from china!
 
 - 🔭 I'm currently working on a private company, we are a SaaS company.
-- :blush: I hope to use my technology to change my life. So, I use my time to do my private project [Dragon](https://github.com/longshihui/dragon), 
+- :blush: I hope to use my technology to change my life. So, I use my time to do my private project [Dragon](https://github.com/longshihui/dragon), It collects daily inspiration and makes my daily life simple.
 - 🌱 I’m currently learning about Front-end engineering, like **Typescript**, **Electron**, **Webpack5** and **Nodejs** and so on...
 - 💬 Ask me about anything [here](mailto:391424924@qq.com)!
 
