@@ -9,9 +9,7 @@ I'm a FrontEnd developer from china!
 - 💬 Ask me about anything [here](mailto:391424924@qq.com) and welcome follow me ~
 - :zany_face: [Awesome Project](https://github.com/longshihui/awesome) is my sorted github stars, That is record my saw great project, Hope it helps you!
 
-I saw a humorous picture, the mean is "The subway station is harder than you.", lol, it's not malice.
-
-![Subway Wall](./subway-wall.png)
+I want to find a girlfriend, the soul is important!
 
 Following is my stats:
 
