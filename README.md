@@ -12,6 +12,6 @@ So, I use my time to do my private project [Dragon](https://github.com/longshihu
 
 :sparkles: [Dragon](https://github.com/longshihui/dragon) is a desktop app, it collects daily inspiration and makes my life simple.
 
-By the way, I want to find a soul mate, she is will be my girlfriend, good luck for me!
+By the way, I want to find a soul mate, she will be my girlfriend, good luck to me!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longshihui&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
