@@ -6,7 +6,7 @@ I work in the Cdf(China Duty Free Group).
 
 <img alt="中免集团logo" width="200" src="https://user-images.githubusercontent.com/17525817/185780097-afb8e9a2-5386-4926-95a6-4b0b40089591.png">
 
-The China Duty Free Group is belong to the China Tourism Group.
+The China Duty Free Group belongs to the China Tourism Group.
 
 <img alt="中国旅游集团logo" width="200" src="https://user-images.githubusercontent.com/17525817/188295017-f73703d9-4d6e-40d3-aefa-b65ca5bf327b.png">
 
