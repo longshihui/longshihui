@@ -12,7 +12,7 @@ The China Duty Free Group belongs to the China Tourism Group.
 
 ## What kind of person am I ?
 
-I'm a quiet man at real life, but I always cute with my friends.
+I'm a quiet man in real life, but I am always cute with my friends.
 
 ## For technology
 
